@@ -1,0 +1,17 @@
+/* HomePage.css */
+.header {
+    background-color: #2d3748; /* Equivalent to bg-gray-800 */
+    color: white; /* Equivalent to text-white */
+    text-align: center; /* Equivalent to text-center */
+    padding: 16px; /* Equivalent to py-4 */
+  }
+  
+  .header h1{
+    font-size: 1.875rem; /* Equivalent to text-3xl */
+    font-weight: bold; /* Equivalent to font-bold */
+  }
+  
+  .h8{
+    font-size: 1.875rem; /* Equivalent to text-3xl */
+    font-weight: bold; /* Equivalent to font-bold */
+  }
